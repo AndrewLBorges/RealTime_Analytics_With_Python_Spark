@@ -1,1 +1,1 @@
-# RealTime_Analytics_With_Python_Spark
+# Learning to work with Apache Spark and Python by building projects
